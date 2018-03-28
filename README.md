@@ -17,7 +17,7 @@
 BlazepoolMiner is a modification of NiceHash Miner v1. This version is intended for experienced miners who want the quickest updates and highest hashrates, and are okay with some customization of the software and antivirus.
 
 
-<img src="https://ibb.co/djLPs7" />
+<img src="https://image.ibb.co/bKToKn/screen.jpg" />
 
 Please follow Blazepool on Twitter <a href="https://twitter.com/blazepoolhost" target="_blank">@blazepoolhost</a> for updates on important information concerning the pool.
 
