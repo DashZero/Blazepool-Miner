@@ -14,7 +14,7 @@
 
 # <a name="introduction"></a> Introduction
 
-BlazepoolMiner is a modification of NiceHash Miner v1. This version is intended for experienced miners who want the quickest updates and highest hashrates, and are okay with some customization of the software and antivirus.
+BlazepoolMiner is a fork of NiceHash Miner v1. This version is intended for experienced miners who want the quickest updates and highest hashrates, and are okay with some customization of the software and antivirus.
 
 
 <img src="https://image.ibb.co/bKToKn/screen.jpg" />
